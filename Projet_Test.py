@@ -5,7 +5,7 @@
 
 
 #Connexion à la base de donnée
-import mysql.connector
+#import mysql.connector
 import getpass
 from sqlite3 import connect
 
